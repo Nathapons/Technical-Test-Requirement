@@ -1,4 +1,5 @@
-# MyProject
+# Technical-Test-Requirement
+
 
 This project is built using Django and Django Ninja.
 
