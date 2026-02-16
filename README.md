@@ -2,6 +2,8 @@
 
 This project is built using Django and Django Ninja.
 
+![Alt text](swagger.png)
+
 ## Installation
 
 1.  **Navigate to the project directory:**
