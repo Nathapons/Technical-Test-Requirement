@@ -9,7 +9,7 @@ This project is built using Django and Django Ninja.
 
 1.  **Navigate to the project directory:**
     ```bash
-    cd myproject
+    cd Technical-Test-Requirement
     ```
 
 2.  **Create a virtual environment (optional but recommended):**
